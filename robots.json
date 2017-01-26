@@ -1,0 +1,154 @@
+{
+    "manufacturers": [
+        {
+            "name": "Witting, Cronin and Carroll",
+            "models": [
+                {
+                    "modelNo": "HDD-65629",
+                    "height": 4,
+                    "weight": 1
+                },
+                {
+                    "modelNo": "SAS-37088",
+                    "height": 6,
+                    "weight": 3
+                },
+                {
+                    "modelNo": "RSS-77485",
+                    "height": 4,
+                    "weight": 2
+                },
+                {
+                    "modelNo": "SMTP-33616",
+                    "height": 7,
+                    "weight": 8
+                },
+                {
+                    "modelNo": "XML-8040",
+                    "height": 7,
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "name": "Bashirian and Sons",
+            "models": [
+                {
+                    "modelNo": "SDD-70544",
+                    "height": 8,
+                    "weight": 6
+                },
+                {
+                    "modelNo": "CSS-43855",
+                    "height": 5,
+                    "weight": 9
+                },
+                {
+                    "modelNo": "XSS-83",
+                    "height": 8,
+                    "weight": 6
+                },
+                {
+                    "modelNo": "SSL-78693",
+                    "height": 1,
+                    "weight": 1
+                },
+                {
+                    "modelNo": "THX-93426",
+                    "height": 6,
+                    "weight": 4
+                }
+            ]
+        },
+        {
+            "name": "Ullrich, Kemmer and Welch",
+            "models": [
+                {
+                    "modelNo": "IB-98444",
+                    "height": 9,
+                    "weight": 2
+                },
+                {
+                    "modelNo": "SDD-60301",
+                    "height": 4,
+                    "weight": 7
+                },
+                {
+                    "modelNo": "SMTP-69527",
+                    "height": 8,
+                    "weight": 6
+                },
+                {
+                    "modelNo": "SMTP-59931",
+                    "height": 2,
+                    "weight": 7
+                },
+                {
+                    "modelNo": "EXE-15704",
+                    "height": 9,
+                    "weight": 7
+                }
+            ]
+        },
+        {
+            "name": "Thompson LLC",
+            "models": [
+                {
+                    "modelNo": "AI-84503",
+                    "height": 4,
+                    "weight": 7
+                },
+                {
+                    "modelNo": "FTP-65695",
+                    "height": 5,
+                    "weight": 4
+                },
+                {
+                    "modelNo": "ADP-96133",
+                    "height": 4,
+                    "weight": 3
+                },
+                {
+                    "modelNo": "IB-75693",
+                    "height": 9,
+                    "weight": 1
+                },
+                {
+                    "modelNo": "PCI-90097",
+                    "height": 4,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "Cummerata - Huels",
+            "models": [
+                {
+                    "modelNo": "ADP-55679",
+                    "height": 3,
+                    "weight": 7
+                },
+                {
+                    "modelNo": "TCP-83503",
+                    "height": 8,
+                    "weight": 2
+                },
+                {
+                    "modelNo": "CSS-95433",
+                    "height": 4,
+                    "weight": 2
+                },
+                {
+                    "modelNo": "SAS-77168",
+                    "height": 5,
+                    "weight": 7
+                },
+                {
+                    "modelNo": "FTP-12334",
+                    "height": 5,
+                    "weight": 7
+                }
+            ]
+        }
+    ]
+}

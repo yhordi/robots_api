@@ -1,3 +1,4 @@
+var fs = require('fs');
 var faker = require('faker');
 
 function getRandomInt(min, max) {
@@ -20,5 +21,12 @@ for(var i = 0; i < 5; i += 1){
   })
 }
 var output = {manufacturers: manufacturers}
+var fileOutput = JSON.stringify(output, null, 4)
 
-console.log(JSON.stringify(output, null, 4))
+fs.writeFile("./robots.json", fileOutput, function(err) {
+    if(err) {
+        return console.log(err);
+    }
+
+    console.log("The file was saved!");
+});
