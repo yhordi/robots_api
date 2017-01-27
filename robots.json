@@ -1,152 +1,177 @@
 {
     "manufacturers": [
         {
-            "name": "Witting, Cronin and Carroll",
+            "name": "Bailey and Sons",
             "models": [
                 {
-                    "modelNo": "HDD-65629",
-                    "height": 4,
-                    "weight": 1
-                },
-                {
-                    "modelNo": "SAS-37088",
-                    "height": 6,
-                    "weight": 3
-                },
-                {
-                    "modelNo": "RSS-77485",
-                    "height": 4,
-                    "weight": 2
-                },
-                {
-                    "modelNo": "SMTP-33616",
-                    "height": 7,
-                    "weight": 8
-                },
-                {
-                    "modelNo": "XML-8040",
-                    "height": 7,
-                    "weight": 3
-                }
-            ]
-        },
-        {
-            "name": "Bashirian and Sons",
-            "models": [
-                {
-                    "modelNo": "SDD-70544",
-                    "height": 8,
-                    "weight": 6
-                },
-                {
-                    "modelNo": "CSS-43855",
-                    "height": 5,
-                    "weight": 9
-                },
-                {
-                    "modelNo": "XSS-83",
-                    "height": 8,
-                    "weight": 6
-                },
-                {
-                    "modelNo": "SSL-78693",
-                    "height": 1,
-                    "weight": 1
-                },
-                {
-                    "modelNo": "THX-93426",
-                    "height": 6,
-                    "weight": 4
-                }
-            ]
-        },
-        {
-            "name": "Ullrich, Kemmer and Welch",
-            "models": [
-                {
-                    "modelNo": "IB-98444",
-                    "height": 9,
-                    "weight": 2
-                },
-                {
-                    "modelNo": "SDD-60301",
-                    "height": 4,
-                    "weight": 7
-                },
-                {
-                    "modelNo": "SMTP-69527",
-                    "height": 8,
-                    "weight": 6
-                },
-                {
-                    "modelNo": "SMTP-59931",
-                    "height": 2,
-                    "weight": 7
-                },
-                {
-                    "modelNo": "EXE-15704",
-                    "height": 9,
-                    "weight": 7
-                }
-            ]
-        },
-        {
-            "name": "Thompson LLC",
-            "models": [
-                {
-                    "modelNo": "AI-84503",
-                    "height": 4,
-                    "weight": 7
-                },
-                {
-                    "modelNo": "FTP-65695",
-                    "height": 5,
-                    "weight": 4
-                },
-                {
-                    "modelNo": "ADP-96133",
-                    "height": 4,
-                    "weight": 3
-                },
-                {
-                    "modelNo": "IB-75693",
-                    "height": 9,
-                    "weight": 1
-                },
-                {
-                    "modelNo": "PCI-90097",
-                    "height": 4,
-                    "weight": 1
-                }
-            ]
-        },
-        {
-            "name": "Cummerata - Huels",
-            "models": [
-                {
-                    "modelNo": "ADP-55679",
+                    "modelNo": "SDD-2082",
                     "height": 3,
-                    "weight": 7
+                    "weight": 7,
+                    "price": "$528.00"
                 },
                 {
-                    "modelNo": "TCP-83503",
-                    "height": 8,
-                    "weight": 2
+                    "modelNo": "EXE-55471",
+                    "height": 7,
+                    "weight": 9,
+                    "price": "$268.00"
                 },
                 {
-                    "modelNo": "CSS-95433",
+                    "modelNo": "ADP-56798",
                     "height": 4,
-                    "weight": 2
+                    "weight": 6,
+                    "price": "$874.00"
                 },
                 {
-                    "modelNo": "SAS-77168",
-                    "height": 5,
-                    "weight": 7
+                    "modelNo": "USB-40868",
+                    "height": 4,
+                    "weight": 7,
+                    "price": "$969.00"
                 },
                 {
-                    "modelNo": "FTP-12334",
+                    "modelNo": "IB-30904",
+                    "height": 7,
+                    "weight": 1,
+                    "price": "$294.00"
+                }
+            ]
+        },
+        {
+            "name": "Stamm Inc",
+            "models": [
+                {
+                    "modelNo": "SMTP-33858",
+                    "height": 4,
+                    "weight": 1,
+                    "price": "$303.00"
+                },
+                {
+                    "modelNo": "ADP-16173",
+                    "height": 8,
+                    "weight": 8,
+                    "price": "$64.00"
+                },
+                {
+                    "modelNo": "THX-84462",
+                    "height": 7,
+                    "weight": 9,
+                    "price": "$111.00"
+                },
+                {
+                    "modelNo": "COM-6179",
+                    "height": 6,
+                    "weight": 2,
+                    "price": "$475.00"
+                },
+                {
+                    "modelNo": "FTP-68524",
+                    "height": 3,
+                    "weight": 8,
+                    "price": "$478.00"
+                }
+            ]
+        },
+        {
+            "name": "Jones and Sons",
+            "models": [
+                {
+                    "modelNo": "SCSI-14595",
+                    "height": 7,
+                    "weight": 3,
+                    "price": "$238.00"
+                },
+                {
+                    "modelNo": "SSL-66139",
+                    "height": 7,
+                    "weight": 8,
+                    "price": "$802.00"
+                },
+                {
+                    "modelNo": "SQL-74225",
+                    "height": 1,
+                    "weight": 6,
+                    "price": "$187.00"
+                },
+                {
+                    "modelNo": "SCSI-34047",
+                    "height": 8,
+                    "weight": 9,
+                    "price": "$822.00"
+                },
+                {
+                    "modelNo": "IB-27538",
                     "height": 5,
-                    "weight": 7
+                    "weight": 4,
+                    "price": "$213.00"
+                }
+            ]
+        },
+        {
+            "name": "Quitzon - Wunsch",
+            "models": [
+                {
+                    "modelNo": "JBOD-43547",
+                    "height": 9,
+                    "weight": 1,
+                    "price": "$882.00"
+                },
+                {
+                    "modelNo": "SSL-47202",
+                    "height": 8,
+                    "weight": 9,
+                    "price": "$237.00"
+                },
+                {
+                    "modelNo": "JSON-44204",
+                    "height": 5,
+                    "weight": 1,
+                    "price": "$421.00"
+                },
+                {
+                    "modelNo": "EXE-9483",
+                    "height": 3,
+                    "weight": 4,
+                    "price": "$605.00"
+                },
+                {
+                    "modelNo": "SMS-80959",
+                    "height": 2,
+                    "weight": 7,
+                    "price": "$908.00"
+                }
+            ]
+        },
+        {
+            "name": "Nikolaus and Sons",
+            "models": [
+                {
+                    "modelNo": "SDD-77290",
+                    "height": 9,
+                    "weight": 6,
+                    "price": "$825.00"
+                },
+                {
+                    "modelNo": "XML-89168",
+                    "height": 9,
+                    "weight": 4,
+                    "price": "$799.00"
+                },
+                {
+                    "modelNo": "SMS-84425",
+                    "height": 9,
+                    "weight": 8,
+                    "price": "$598.00"
+                },
+                {
+                    "modelNo": "SDD-60264",
+                    "height": 4,
+                    "weight": 3,
+                    "price": "$213.00"
+                },
+                {
+                    "modelNo": "SSL-43354",
+                    "height": 7,
+                    "weight": 4,
+                    "price": "$680.00"
                 }
             ]
         }

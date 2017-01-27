@@ -1,6 +1,8 @@
 var fs = require('fs');
 var faker = require('faker');
 
+console.log(faker.random.image())
+
 function getRandomInt(min, max) {
     return Math.floor(Math.random() * (max - min + 1)) + min;
 }
@@ -12,7 +14,8 @@ for(var i = 0; i < 5; i += 1){
     models.push({
       modelNo: faker.hacker.abbreviation() + '-' + faker.random.number(),
       height: getRandomInt(1,9),
-      weight: getRandomInt(1,9)
+      weight: getRandomInt(1,9),
+      price: "$" + faker.finance.amount()
     })
   }
   manufacturers.push({
